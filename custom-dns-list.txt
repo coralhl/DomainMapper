@@ -1,2 +1,3 @@
-exemple.ru
-1.exemple.com
+geedo.com
+pkgs.tailscale.com
+releases.hashicorp.com
