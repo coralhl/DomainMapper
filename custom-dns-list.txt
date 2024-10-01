@@ -1,3 +1,2 @@
-geedo.com
 pkgs.tailscale.com
 releases.hashicorp.com
